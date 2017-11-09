@@ -49,7 +49,7 @@ public class Article {
 	@Override
 	public String toString() {
 		return "Article [title=" + title + ", url=" + url + ", categories="
-				+ categories + ", tags=" + tags + "]"  ;
+				+ categories + ", tags=" + tags + "] ok";
 	}
 	
 	

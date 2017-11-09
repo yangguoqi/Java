@@ -43,7 +43,7 @@ public class App
     	
     	Article article = new Article();
     	
-    	article.setTitle("GSON - Java JSON Library");
+    	article.setTitle("GSON - Java JSON Library Good");
     	article.setUrl("http://hmkcode.com/gson-json-java");
     	article.addCategory("Java");
     	article.addTag("Java");
